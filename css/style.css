@@ -1,0 +1,64 @@
+/*font-family: 'Roboto', sans-serif;*/
+body{
+font-family: 'Roboto', sans-serif;
+font-size: 35px;
+}
+.cal_body
+{
+	padding-top: 100px;
+	background-color: #1EC0FF;
+	padding-bottom: 50px;
+}
+h3
+{
+	text-transform: uppercase;
+	text-align: center;
+	font-family: 'Laila', serif;
+
+}
+h4{
+	text-align: center;
+	font-family: 'Laila', serif;
+}
+.bg_gray
+{
+	background-color:#F05C5C;
+}
+.bg_gray p
+{
+	color: white;
+font-size: 40px;
+}
+.bg_white
+{
+	background-color: #56D47E;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+.bg_white:hover
+{
+	background-color: #2B89C9;
+}
+.operator
+{
+	background-color: #FFD338;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+.operator:hover
+{
+	background-color: tomato;
+}
+.numb_btn
+{
+	background-color: #56D47E;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+
+}
+.numb_btn:hover
+{
+	background-color: #2B89C9;
+	
+
+}
